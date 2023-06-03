@@ -7,3 +7,8 @@ def is_prime(n):
             return False
     return True
 
+# run following in python shell
+# from prime import is_prime
+# is_prime(5)
+# test_prime(8)
+# Check manually
